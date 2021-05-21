@@ -17,5 +17,8 @@ tterstasffsadf
 tterstasffsadf
 tterstasffsadf
 tterstasffsadfasdfasdf
-测试modify
+<<<<<<< HEAD
 
+=======
+测试hot-fix
+>>>>>>> hot-fix
